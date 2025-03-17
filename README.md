@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://photos.smugmug.com/Personal-shoots/n-FRp25F/Profile-pics-/i-q3GdSnR/1/Lzm9hPzfCCScq9r6Vn3tVhSRzkmPJq9jsWwPRv3DF/4K/IMG_1902-4K.jpg"  />
+
 
 ###
 
