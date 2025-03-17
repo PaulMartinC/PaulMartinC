@@ -1,34 +1,48 @@
-## Cybersecurity & Software Engineering Enthusiast | Passionate about offensive security, pen testing, and ethical hacking | Pursuing certifications for Cybersecurity from UC San Diego Extended Studies, Google, and more. 🚀
-I started teaching myself about Kali Linux and changing hex code for games on Xbox 360 at around the age of 11 and now I’m getting my certifications for cybersecurity! 
-My current goal is to work towards becoming a professional and fluent Software Engineer, Cybersecurity Specialist, IT professional, and Computer Programmer.
-<br><br>
-Currently Working on my Certificates from:
+<h2 align="left">Hello! My name is Paul Martin and I'm a Student of Cybersecurity, from San Diego</h2>
 
-***UC San Diego Extended Studies Core Certificate, Google Cybersecurity Career Certificate, 
-Responsive Web Design Certificate, and JavaScript Algorithms and Data Structures Certificate***
+###
 
-<br>
+<img align="right" height="150" src="https://photos.smugmug.com/Personal-shoots/n-FRp25F/Profile-pics-/i-q3GdSnR/1/Lzm9hPzfCCScq9r6Vn3tVhSRzkmPJq9jsWwPRv3DF/4K/IMG_1902-4K.jpg"  />
 
-Currently Learning **HTML & CSS, JavaScript, SQL**
+###
 
-Going to Learn **Python, Java, C, C++, Swift(iOS)**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+</div>
 
-<br>
+###
 
-<h2>Going to get these Certifications in the near future:</h2>
+<div align="left">
+  <a href="https://www.instagram.com/paulmartincruzz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="paulmartinswork@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/paulmartincruz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-CompTIA Security+ 
-
-CompTIA Network+
-
-CompTIA CySA+
-
-Certified Ethical Hacker (CEH)
-
-Certified Information Systems Security Professional (CISSP)
-
-Offensive Security Certified Professional (OSCP)
-
+###
 
 <!--
 **PaulMartinC/PaulMartinC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
