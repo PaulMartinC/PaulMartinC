@@ -1,4 +1,4 @@
-<h2 align="left">Cybersecurity & Software Engineering Enthusiast | Passionate about offensive security, pen testing, and ethical hacking | Pursuing certifications for Cybersecurity from UC San Diego Extended Studies, Google, and more. 🚀</h2>
+<h2 align="left">Cybersecurity & Software Engineering Enthusiast | Passionate about Offensive Security, Pen Testing, and Ethical Hacking | Pursuing certifications for Cybersecurity from UC San Diego Extended Studies, Google, and more. 🚀</h2>
 
 ###
 
