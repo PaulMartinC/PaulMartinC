@@ -8,8 +8,7 @@ Proficient in Adobe software, After Effects, Microsoft Office, Google Workspace,
 
 <br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
-
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
 <h2>Going to get these Certifications in the near future:</h2>
