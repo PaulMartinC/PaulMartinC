@@ -1,15 +1,10 @@
 <h2 align="left">Cybersecurity & Software Engineering Enthusiast | Passionate about offensive security, pen testing, and ethical hacking | Pursuing certifications for Cybersecurity from UC San Diego Extended Studies, Google, and more. 🚀</h2>
 
-I started teaching myself about Kali Linux and changing hex code for games on Xbox 360 at around the age of 11 and now I’m getting my certifications for cybersecurity! My current goal is to work towards becoming a professional and fluent Software Engineer, Cybersecurity Specialist, IT professional, and Computer Programmer.
-<br><br>
-Currently Working on my Certificates from:
-_<br><br>
-**UC San Diego Extended Studies Core Certificate, Google Cybersecurity Career Certificate, Responsive Web Design Certificate, and JavaScript Algorithms and Data Structures Certificate**
-<br><br>_
+Aspiring software engineer and cybersecurity enthusiast with a passion for technology, sparked at age 11 through self-taught exploration of Kali Linux, Xbox 360 hex code modification, and Raspberry Pi coding. This early curiosity has grown into a dedicated pursuit of a technical career, combining hands-on experience with formal education. Currently pursuing certifications including the **_UC San Diego Extended Studies Core Certificate, Google Cybersecurity Career Certificate, Responsive Web Design Certificate, and JavaScript Algorithms and Data Structures Certificate_** to build expertise in cybersecurity and front-end development.
 
-Currently Learning **HTML & CSS, JavaScript, Java, Python**
-<br><br>
-Going to Learn **C, C++, Swift(iOS), React**
+Actively mastering **_HTML_** and **_CSS_** for structured web design, **_JavaScript_** for dynamic applications, and **_Python_** for versatile scripting. I plan to deepen my skills in **_C_** and **_C++_** for low-level programming, **_Swift_** for iOS development, and **_React_** for modern user interfaces. This diverse skill set supports my goal to excel as a Software Engineer, Cybersecurity Specialist, IT Professional, and Computer Programmer.
+
+Proficient in Adobe software, After Effects, Microsoft Office, Google Workspace, CRM tools, and CMS platforms, I apply my photography background to create technical content. My adaptability and problem-solving skills, refined through diverse projects, fuel my commitment to innovation. Eager to contribute to open-source projects and collaborate with the developer community.
 
 <br>
 
