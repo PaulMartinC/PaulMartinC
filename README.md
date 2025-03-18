@@ -3,7 +3,6 @@
 ###
 
 
-
 ###
 
 <div align="left">
@@ -38,6 +37,27 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
+
+###
+
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=paulmartinc&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=paulmartinc&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=paulmartinc&show_icons=true" />
+</picture>
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulmartinc&layout=compact)
+
 
 ###
 
