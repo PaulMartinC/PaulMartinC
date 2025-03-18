@@ -55,8 +55,7 @@
 
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulmartinc&layout=compact)
+<img class="m-2 select-none pointer-events-none" draggable="false" id="langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulmartinc&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt="">
 
 
 ###
