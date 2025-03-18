@@ -41,11 +41,11 @@ Offensive Security Certified Professional (OSCP)
 
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=paulmartinc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=paulmartinc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![paulmartinc's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulmartinc&theme=dark&show_icons=true&hide_border=true&layout=compact) <br>
+![paulmartinc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=paulmartinc&theme=dark&hide_border=true) <br>
+![paulmartinc's Stats](https://github-readme-stats.vercel.app/api?username=paulmartinc&theme=dark&show_icons=true&hide_border=true&count_private=true) <br>
+![paulmartinc's Contribution](https://github-contributor-stats.vercel.app/api?username=paulmartinc&limit=5&theme=dark&show_icons=true&hide_border=true&combine_all_yearly_contributions=true)
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=paulmartinc&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=paulmartinc&icon=0&color=0)](https://visitcount.itsvg.in)
