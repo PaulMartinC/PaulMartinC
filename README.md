@@ -5,9 +5,7 @@ Aspiring software engineer and cybersecurity enthusiast with a passion for techn
 Actively mastering **_HTML_** and **_CSS_** for structured web design, **_JavaScript_** for dynamic applications, and **_Python_** for versatile scripting. I plan to deepen my skills in **_C_** and **_C++_** for low-level programming, **_Swift_** for iOS development, and **_React_** for modern user interfaces. This diverse skill set supports my goal to excel as a Software Engineer, Cybersecurity Specialist, IT Professional, and Computer Programmer.
 
 Proficient in Adobe software, After Effects, Microsoft Office, Google Workspace, CRM tools, and CMS platforms, I apply my photography background to create technical content. My adaptability and problem-solving skills, refined through diverse projects, fuel my commitment to innovation. Eager to contribute to open-source projects and collaborate with the developer community.
-
 <br>
-
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 
