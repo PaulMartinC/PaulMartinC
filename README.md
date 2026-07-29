@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠️ Technical Stack & Tools
+### Technical Stack & Tools
 
 **Languages & Scripting:**  
 `Python` • `Bash` • `SQL` • `JavaScript` • `HTML5/CSS3`
